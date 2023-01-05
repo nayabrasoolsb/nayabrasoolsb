@@ -1,15 +1,16 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](http://res.cloudinary.com/dzocqa8dh/image/upload/v1672932103/e3dn3ftwzgenedmho76y.gif)
 
 <h1 align="center">Hi 👋, I'm Nayab Rasool</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1lG4AwspPqllaXdTgycXwAS91txCPDXDV/view?usp=sharing"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayabrasoolsb&label=Profile%20views&color=0e75b6&style=flat" alt="nayabrasoolsb" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nrasool030" target="blank"><img src="https://img.shields.io/twitter/follow/nrasool030?logo=twitter&style=for-the-badge" alt="nrasool030" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **react, javascript, mongodb, nodejs, html, css**
+- 💬 Ask me about **Data Structures & Algorithms, Full Stack Web Development**
 
 - 📫 How to reach me **nrasool030@gmail.com**
 
