@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://res.cloudinary.com/dzocqa8dh/image/upload/v1672934244/jzcxsyzratfieahplexe.png" alt="nrasool030" height="30" width="40" /></a>
+<a href="https://twitter.com/nrasool030" target="blank"/><img align="center" src="http://res.cloudinary.com/dzocqa8dh/image/upload/v1672935192/ygvadoilp1zek1dolbvg.jpg" alt="nrasool030" height="30" width="40" ></a>
 <a href="https://linkedin.com/in/nayab-rasool-a2a590217" target="blank"><img align="center" src="http://res.cloudinary.com/dzocqa8dh/image/upload/v1672934479/xt0zf1jwsjudcijbvxda.png" alt="nayab-rasool-a2a590217" height="30" width="40" /></a>
 </p>
 
