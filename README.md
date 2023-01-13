@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nrasool030@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1pYdK1b8X_fniQrUBSRhfGWmUiIencB4R/view?usp=sharing
+- 📄 Find my resume https://drive.google.com/file/d/1pYdK1b8X_fniQrUBSRhfGWmUiIencB4R/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
