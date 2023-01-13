@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **react, javascript, mongodb, nodejs, html, css**
+- 💬 Ask me about JavaScript, DataStructures & Alogorithms, Reactjs, Nodejs
 
 - 📫 How to reach me **nrasool030@gmail.com**
 
