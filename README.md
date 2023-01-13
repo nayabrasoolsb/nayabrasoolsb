@@ -1,9 +1,10 @@
 ![MasterHead](http://res.cloudinary.com/dzocqa8dh/image/upload/v1672932103/e3dn3ftwzgenedmho76y.gif)
 
 <h1 align="center">Hi 👋, I'm Nayab Rasool</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h3 align="center">I have developed full-stack projects with MERN tech stack. I work mainly with JavaScript. I have worked with ReactJS, HTML/CSS for Frontend development. I work with NodeJS, ExpressJS for backend development and MongoDB for data base management and cloud management. </h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/proxy/0*hU4zJiyVwWcM0L-w.webp"/>
 
 - 🌱 I’m currently learning **Python**
 
@@ -36,10 +37,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="http://res.cloudinary.com/dzocqa8dh/image/upload/v1672938151/rvgauvfkod2pyvlq0qgf.png" alt="git" width="40" height="40"/> </a> 
    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="http://res.cloudinary.com/dzocqa8dh/image/upload/v1672941139/drfogdl0efd3abhzkia3.png" alt="postman" width="40" height="40"/> </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayabrasoolsb&show_icons=true&locale=en&layout=compact" alt="nayabrasoolsb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayabrasoolsb&show_icons=true&locale=en" alt="nayabrasoolsb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayabrasoolsb&" alt="nayabrasoolsb" /></p>
 
