@@ -1,42 +1,28 @@
-![MasterHead](http://res.cloudinary.com/dzocqa8dh/image/upload/v1672932103/e3dn3ftwzgenedmho76y.gif)
-
 <h1 align="center">Hi 👋, I'm Nayab Rasool</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
-<h3 align="center">I have developed full-stack projects with MERN tech stack. I work mainly with JavaScript. I have worked with ReactJS, HTML/CSS for Frontend development. I work with NodeJS, ExpressJS for backend development and MongoDB for data base management and cloud management. </h3>
+<h3 align="center">A passionate full stack developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/proxy/0*hU4zJiyVwWcM0L-w.webp"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayabrasoolsb&label=Profile%20views&color=0e75b6&style=flat" alt="nayabrasoolsb" /> </p>
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Data Structures & Algorithms, Full Stack Web Development**
+- 💬 Ask me about **react, javascript, mongodb, nodejs, html, css**
 
 - 📫 How to reach me **nrasool030@gmail.com**
 
-- 📙 You can find my resume [https://drive.google.com/file/d/1Ryo2NdLt1hOLEontxHEaDI-8iJFraPMd/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WsYZf2gx2HzW-Ogrwt0wfbvUDrSPjz0M/view?usp=sharing](https://drive.google.com/file/d/1WsYZf2gx2HzW-Ogrwt0wfbvUDrSPjz0M/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nrasool030" target="_blank"><img align="center" src="http://res.cloudinary.com/dzocqa8dh/image/upload/v1672935192/ygvadoilp1zek1dolbvg.jpg" alt="nrasool030" height="30" width="37" ></a>
-<a href="https://linkedin.com/in/nayab-rasool-a2a590217" target="_blank"><img align="center" src="http://res.cloudinary.com/dzocqa8dh/image/upload/v1672934479/xt0zf1jwsjudcijbvxda.png" alt="nayab-rasool-a2a590217" height="30" width="37" /></a>
+<a href="https://twitter.com/nrasool030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nrasool030" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nayab-rasool-a2a590217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayab-rasool-a2a590217" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img
-    src="http://res.cloudinary.com/dzocqa8dh/image/upload/v1672937270/z25nd75a370ydqb1pspf.jpg"   
-    alt="react" width="40" height="40" /> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="http://res.cloudinary.com/dzocqa8dh/image/upload/v1672938682/agzysh3pi2knsvzckwca.png" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="http://res.cloudinary.com/dzocqa8dh/image/upload/v1672939273/ie0gz5zf4are0df79mft.png" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="http://res.cloudinary.com/dzocqa8dh/image/upload/v1672939444/t97vds5mbbshj1fadpga.png" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="http://res.cloudinary.com/dzocqa8dh/image/upload/v1672940182/ehqhgnvwilkttcc6lxz7.png" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="http://res.cloudinary.com/dzocqa8dh/image/upload/v1672941738/pfv4caue0qogayk498oj.png" alt="mysql" width="47" height="40"/> </a> 
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="http://res.cloudinary.com/dzocqa8dh/image/upload/v1672939721/x6sajit5ac6qvicc2vwd.jpg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="http://res.cloudinary.com/dzocqa8dh/image/upload/v1672941516/zzv7sa4ufckvodmk5ax7.png" alt="nodejs" width="48" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="http://res.cloudinary.com/dzocqa8dh/image/upload/v1672938151/rvgauvfkod2pyvlq0qgf.png" alt="git" width="40" height="40"/> </a> 
-   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="http://res.cloudinary.com/dzocqa8dh/image/upload/v1672941139/drfogdl0efd3abhzkia3.png" alt="postman" width="40" height="40"/> </a>
-</p>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayabrasoolsb&show_icons=true&locale=en&layout=compact" alt="nayabrasoolsb" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayabrasoolsb&show_icons=true&locale=en" alt="nayabrasoolsb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayabrasoolsb&" alt="nayabrasoolsb" /></p>
 
