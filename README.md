@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nayab Rasool</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">I have developed full-stack projects with MERN tech stack. I work mainly with JavaScript. I have worked with ReactJS, HTML/CSS for Frontend development. I work with NodeJS, ExpressJS for backend development, MongoDB for data base management, Git/GitHub for version control and cloud management. </h3>
+<img src="https://miro.medium.com/proxy/0*hU4zJiyVwWcM0L-w.webp" alt="mern" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayabrasoolsb&label=Profile%20views&color=0e75b6&style=flat" alt="nayabrasoolsb" /> </p>
 
