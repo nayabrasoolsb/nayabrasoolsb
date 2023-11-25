@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nayab Rasool</h1>
 <h3 align="center">A passionate Full Stack developer 🚀</h3>
-<h3 align="center">
+<h3>
 👨‍💻 About Me:
 
 💼 Professional: Over 1.5 years of hands-on experience in MERN stack development.
 🛠️ Skills: Proficient in MongoDB, Express.js, React, and Node.js. Strong foundation in Data Structures and Algorithms.
 🌐 Projects: Check out my repositories for a glimpse into my professional and personal projects using the MERN stack.
+
 🚀 Highlights:
 
 Professional Experience: Contributed to Zeus Learning as a Full Stack Developer, leading frontend development with React and backend operations with Node.js. Specialized in building scalable and efficient solutions.
@@ -21,6 +22,7 @@ Version Control: Git, GitHub
 🔗 Connect with Me:
 
 Let's connect and discuss all things MERN, web development, and collaboration! Open to new opportunities and exciting projects.
+
 📬 Contact:
 
 Feel free to reach out: nrasool030@gmail.com
