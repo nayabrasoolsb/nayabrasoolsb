@@ -43,6 +43,95 @@ algorithm problems on
 GeeksForGeeks.</li>
   </ul>
 </div>
+<h3 align="left">Languages and Tools:</h3>
+    <p align="left">
+      <a
+        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        target="_blank"
+        rel="noreferrer">
+        <img
+          src="https://res.cloudinary.com/dzocqa8dh/image/upload/v1672939444/t97vds5mbbshj1fadpga.png"
+          alt="javascript"
+          width="40"
+          height="40" /> </a
+      ><a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://res.cloudinary.com/dzocqa8dh/image/upload/v1672937089/deaorqoeitdyq1getqle.png"
+          alt="react"
+          width="40"
+          height="40" />
+      </a>
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img
+          src="https://res.cloudinary.com/dzocqa8dh/image/upload/v1672940882/sufadtk6kww7jbaz8tvc.png"
+          alt="nodejs"
+          width="40"
+          height="40" /> </a
+      ><a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img
+          src="https://res.cloudinary.com/dzocqa8dh/image/upload/v1700900024/hlili3wt3dzparlbnrti.png"
+          alt="express"
+          width="40"
+          height="40" />
+      </a>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://res.cloudinary.com/dzocqa8dh/image/upload/v1672940182/ehqhgnvwilkttcc6lxz7.png"
+          alt="mongodb"
+          width="40"
+          height="40" />
+      </a>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://res.cloudinary.com/dzocqa8dh/image/upload/v1672941738/pfv4caue0qogayk498oj.png"
+          alt="mysql"
+          width="40"
+          height="40" />
+      </a>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img
+          src="https://res.cloudinary.com/dzocqa8dh/image/upload/v1672938682/agzysh3pi2knsvzckwca.png"
+          alt="html5"
+          width="40"
+          height="40" /> </a
+      ><a
+        href="https://www.w3schools.com/css/"
+        target="_blank"
+        rel="noreferrer">
+        <img
+          src="https://res.cloudinary.com/dzocqa8dh/image/upload/v1672939273/ie0gz5zf4are0df79mft.png"
+          alt="css3"
+          width="40"
+          height="40" /> </a
+      ><a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img
+          src="https://res.cloudinary.com/dzocqa8dh/image/upload/v1672939721/x6sajit5ac6qvicc2vwd.jpg"
+          alt="python"
+          width="40"
+          height="40" />
+      </a>
+      <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
+          alt="babel"
+          width="40"
+          height="40" />
+      </a>
+      <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img
+          src="https://res.cloudinary.com/dzocqa8dh/image/upload/v1672941139/drfogdl0efd3abhzkia3.png"
+          alt="postman"
+          width="40"
+          height="40" />
+      </a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://res.cloudinary.com/dzocqa8dh/image/upload/v1672938151/rvgauvfkod2pyvlq0qgf.png"
+          alt="git"
+          width="40"
+          height="40" />
+      </a>
+    </p>
 
 
   <div style="margin-top: 20px;">
