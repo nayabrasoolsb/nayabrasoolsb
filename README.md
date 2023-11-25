@@ -1,15 +1,36 @@
 <h1 align="center">Hi 👋, I'm Nayab Rasool</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
-<h3 align="center">I have developed full-stack projects with MERN tech stack. I work mainly with JavaScript. I have worked with ReactJS, HTML/CSS for Frontend development. I work with NodeJS, ExpressJS for backend development, MongoDB for data base management, Git/GitHub for version control and cloud management. </h3>
+<h3 align="center">A passionate Full Stack developer 🚀</h3>
+<h3 align="center">
+👨‍💻 About Me:
+
+💼 Professional: Over 1.5 years of hands-on experience in MERN stack development.
+🛠️ Skills: Proficient in MongoDB, Express.js, React, and Node.js. Strong foundation in Data Structures and Algorithms.
+🌐 Projects: Check out my repositories for a glimpse into my professional and personal projects using the MERN stack.
+🚀 Highlights:
+
+Professional Experience: Contributed to Zeus Learning as a Full Stack Developer, leading frontend development with React and backend operations with Node.js. Specialized in building scalable and efficient solutions.
+
+Personal Projects: Explore my personal projects showcasing my love for clean code, interactive UIs, and solving real-world problems using the MERN stack.
+
+💡 Key Skills:
+
+Frontend: React, Redux, HTML, CSS, JavaScript
+Backend: Node.js, Express.js
+Database: MongoDB, Mongoose
+Version Control: Git, GitHub
+🔗 Connect with Me:
+
+Let's connect and discuss all things MERN, web development, and collaboration! Open to new opportunities and exciting projects.
+📬 Contact:
+
+Feel free to reach out: nrasool030@gmail.com
+👉 Check out my latest projects below! ⬇️
+</h3>
 <img src="https://miro.medium.com/proxy/0*hU4zJiyVwWcM0L-w.webp" alt="mern" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayabrasoolsb&label=Profile%20views&color=0e75b6&style=flat" alt="nayabrasoolsb" /> </p>
 
 - 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about JavaScript, DataStructures & Alogorithms, Reactjs, Nodejs
-
-- 📫 How to reach me **nrasool030@gmail.com**
 
 - 📄 Find my resume https://drive.google.com/file/d/1_EGFLKhOfhZJYAkZnKwheyA9q_8ZIDLZ/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
