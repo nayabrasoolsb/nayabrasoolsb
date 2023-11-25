@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **nrasool030@gmail.com**
 
-- 📄 Find my resume [https://drive.google.com/file/d/1i6DPIhECY6NQHJSfA2ht_ol7W3HSQmyc/view?usp=sharing](https://drive.google.com/file/d/1IePr84ZFUz99IeDtJcB3c_edDeta5017/view?usp=sharing)
-
+- 📄 Find my resume https://drive.google.com/file/d/1_EGFLKhOfhZJYAkZnKwheyA9q_8ZIDLZ/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nrasool030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nrasool030" height="30" width="40" /></a>
