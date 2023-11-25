@@ -1,36 +1,97 @@
-<h1 align="center">Hi 👋, I'm Nayab Rasool</h1>
-<h3 align="center">A passionate Full Stack developer 🚀</h3>
-<h3>
-👨‍💻 About Me:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>[Your Name] - MERN Stack Developer</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+      padding: 0;
+    }
 
-💼 Professional: Over 1.5 years of hands-on experience in MERN stack development.
-🛠️ Skills: Proficient in MongoDB, Express.js, React, and Node.js. Strong foundation in Data Structures and Algorithms.
-🌐 Projects: Check out my repositories for a glimpse into my professional and personal projects using the MERN stack.
+    h1 {
+      color: #0366d6;
+    }
 
-🚀 Highlights:
+    p {
+      color: #24292e;
+    }
 
-Professional Experience: Contributed to Zeus Learning as a Full Stack Developer, leading frontend development with React and backend operations with Node.js. Specialized in building scalable and efficient solutions.
+    .highlight {
+      color: #22863a;
+    }
 
-Personal Projects: Explore my personal projects showcasing my love for clean code, interactive UIs, and solving real-world problems using the MERN stack.
+    .skills {
+      font-weight: bold;
+    }
 
-💡 Key Skills:
+    .contact {
+      margin-top: 20px;
+    }
 
-Frontend: React, Redux, HTML, CSS, JavaScript
-Backend: Node.js, Express.js
-Database: MongoDB, Mongoose
-Version Control: Git, GitHub
-🔗 Connect with Me:
+    .projects {
+      margin-top: 20px;
+    }
 
-Let's connect and discuss all things MERN, web development, and collaboration! Open to new opportunities and exciting projects.
+    .project-list {
+      list-style-type: none;
+      padding: 0;
+    }
 
-📬 Contact:
+    .project-item {
+      margin-bottom: 10px;
+    }
 
-Feel free to reach out: nrasool030@gmail.com
-👉 Check out my latest projects below! ⬇️
-</h3>
-<img src="https://miro.medium.com/proxy/0*hU4zJiyVwWcM0L-w.webp" alt="mern" align="right" width="400">
+    .connect-button {
+      background-color: #0366d6;
+      color: #ffffff;
+      text-decoration: none;
+      padding: 10px 15px;
+      border-radius: 5px;
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayabrasoolsb&label=Profile%20views&color=0e75b6&style=flat" alt="nayabrasoolsb" /> </p>
+  <h1>👋 Hey there! I'm [Your Name], a passionate MERN Stack Developer 🚀</h1>
+
+  <p><span class="highlight">Professional:</span> Over 1.5 years of hands-on experience in MERN stack development.</p>
+
+  <p><span class="highlight">Skills:</span> Proficient in MongoDB, Express.js, React, and Node.js. Strong foundation in Data Structures and Algorithms.</p>
+
+  <div class="projects" style="margin-top: 20px;">
+    <h2>🚀 Projects</h2>
+    <ul style="list-style-type: none; padding: 0;">
+      <li style="margin-bottom: 10px;">Check out my repositories for a glimpse into my professional and personal projects using the MERN stack.</li>
+    </ul>
+  </div>
+
+  <p style="margin-top: 20px;"><span class="highlight">Key Skills:</span> Frontend: React, Redux, HTML, CSS, JavaScript | Backend: Node.js, Express.js | Database: MongoDB, Mongoose | Version Control: Git, GitHub</p>
+
+  <div class="contact" style="margin-top: 20px;">
+    <h2>🔗 Connect with Me</h2>
+    <p>Let's connect and discuss all things MERN, web development, and collaboration! Open to new opportunities and exciting projects.</p>
+    <a href="[Your LinkedIn or other profile link]" target="_blank" style="background-color: #0366d6; color: #ffffff; text-decoration: none; padding: 10px 15px; border-radius: 5px; display: inline-block;">Connect with me</a>
+  </div>
+
+  <div class="contact" style="margin-top: 20px;">
+    <h2>🌐 Portfolio</h2>
+    <p>[Your Portfolio Website or LinkedIn Profile]</p>
+  </div>
+
+  <div class="contact" style="margin-top: 20px;">
+    <h2>📬 Contact</h2>
+    <p>Feel free to reach out: [Your Email]</p>
+  </div>
+
+  <div class="projects" style="margin-top: 20px;">
+    <h2>👉 Check out my latest projects below! ⬇️</h2>
+  </div>
+
 
 - 🌱 I’m currently learning **Python**
 
@@ -46,4 +107,5 @@ Feel free to reach out: nrasool030@gmail.com
 <p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayabrasoolsb&" alt="nayabrasoolsb" /></p>
-
+</body>
+</html>
