@@ -8,7 +8,7 @@
 
   <h1 style="color: #0366d6;">👋 Hey there! I'm Nayab Shaikbaragajji, a passionate MERN Stack Developer 🚀</h1>
 
-  <p><span style="color: #22863a;">Professional:</span> Over 1.5 years of hands-on experience in MERN stack development.</p>
+  <p><span style="color: #22863a;">Professional:</span> Over 2 years of hands-on experience in MERN stack development.</p>
 
   <p><span style="color: #22863a;">Skills:</span> Proficient in MongoDB, Express.js, React, and Node.js. Strong foundation in Data Structures and Algorithms.</p>
 
