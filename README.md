@@ -20,10 +20,16 @@
   </div>
 
   <pre style="margin-top: 20px; color: #22863a;"><span style="color: #22863a;">Key Skills:</span> 
-    Frontend: React, Redux, HTML, CSS, JavaScript, TypeScript, ES6/ES7, Bootstrap
+    Frontend: React, Redux, JavaScript, TypeScript, ES6/ES7, Bootstrap, HTML, CSS, 
     Backend: Node.js, Express.js 
-    Database: MongoDB, Mongoose, MySQL
-    Version Control: Git, GitHub</pre>
+    Database: MongoDB, Mongoose
+    Version Control: Git, GitHub
+    Cloud Services: AWS
+    CI/CD Tools: Github Actions
+    Web Servers: Nginx
+    Containers: Docker
+    Development Tools: NPM, Babel, Postman, Visual Studio Code
+  </pre>
 
   <div style="margin-top: 20px;">
     <h2 style="color: #0366d6;">🔗 Connect with Me</h2>
