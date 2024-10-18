@@ -20,7 +20,7 @@
   </div>
 
   <pre style="margin-top: 20px; color: #22863a;"><span style="color: #22863a;">Key Skills:</span> 
-    Frontend: React, Redux, JavaScript, TypeScript, ES6/ES7, Bootstrap, HTML, CSS, 
+    Frontend: React, Redux, JavaScript, TypeScript, ES6/ES7, Bootstrap, HTML, CSS, Material UI
     Backend: Node.js, Express.js 
     Database: MongoDB, Mongoose
     Version Control: Git, GitHub
