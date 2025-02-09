@@ -44,7 +44,7 @@
    <div style="margin-top: 20px;">
     <h2 style="color: #0366d6;">📄 Resume</h2>
     <p>Find my resume on Google Drive:</p>
-    <a href="https://drive.google.com/file/d/1rMLynSVwGRyMlypkSEu42FaOcsH_e9xK/view?usp=sharing" target="_blank">View Resume</a>
+    <a href="[https://drive.google.com/file/d/1rMLynSVwGRyMlypkSEu42FaOcsH_e9xK/view?usp=sharing](https://drive.google.com/file/d/1wyRi9Ymy4z2EN4ra-tViBsZ8DWyAnOqP/view?usp=sharing)" target="_blank">View Resume</a>
   </div>
   <div style="margin-top: 20px;">
   <h2 style="color: #0366d6;">🏆 Achievements</h2>
